@@ -88,11 +88,11 @@ namespace Generic_Collections
                 Console.WriteLine($"{k.RollNumber}\t\t{k.Name}\t\t{k.Marks}");
                 
             }
-            Console.WriteLine("===============================================");
+            Console.WriteLine("==============================================");
 
             Console.WriteLine("After Remove");
 
-            Console.WriteLine("===============================================");
+            Console.WriteLine("==============================================");
 
             StudentDetail.Remove(stud1.RollNumber, out stud1);
             Console.WriteLine($"RollNumer\tName\t\tMarks");
