@@ -82,6 +82,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Collections", "Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebApplication", "MyFirstWebApplication\MyFirstWebApplication.csproj", "{7DB1BE63-5872-43BE-9BC5-FDFAF78E950E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{7C11B403-4882-48C5-AE3B-FE994A323D80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -236,6 +238,10 @@ Global
 		{7DB1BE63-5872-43BE-9BC5-FDFAF78E950E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DB1BE63-5872-43BE-9BC5-FDFAF78E950E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DB1BE63-5872-43BE-9BC5-FDFAF78E950E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C11B403-4882-48C5-AE3B-FE994A323D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C11B403-4882-48C5-AE3B-FE994A323D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C11B403-4882-48C5-AE3B-FE994A323D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C11B403-4882-48C5-AE3B-FE994A323D80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
