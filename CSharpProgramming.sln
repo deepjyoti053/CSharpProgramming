@@ -84,6 +84,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebApplication", "My
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{7C11B403-4882-48C5-AE3B-FE994A323D80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_1st_Application", "My_1st_Application\My_1st_Application.csproj", "{C3A0041F-24A8-4071-A611-B4AFFC183B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_Array", "Check_Array\Check_Array.csproj", "{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -242,6 +246,14 @@ Global
 		{7C11B403-4882-48C5-AE3B-FE994A323D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C11B403-4882-48C5-AE3B-FE994A323D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C11B403-4882-48C5-AE3B-FE994A323D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A0041F-24A8-4071-A611-B4AFFC183B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A0041F-24A8-4071-A611-B4AFFC183B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A0041F-24A8-4071-A611-B4AFFC183B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A0041F-24A8-4071-A611-B4AFFC183B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

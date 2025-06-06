@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using MyFirstWebApplication.Models;
+using My_1st_Application.Models;
 
-namespace MyFirstWebApplication.Controllers;
+namespace My_1st_Application.Controllers;
 
 public class HomeController : Controller
 {
@@ -28,15 +28,8 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
-
-    public IActionResult MyData()
+    public IActionResult MyHTML()
     {
-        DataClass Obj = new DataClass();
-
-        MyDataViewModel myDataViewModel = new MyDataViewModel();
-        myDataViewModel.Datas = Obj.GetData();
-
-
-        return View(myDataViewModel);
+        return View();
     }
 }
