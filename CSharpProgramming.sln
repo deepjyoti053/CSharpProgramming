@@ -88,6 +88,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My_1st_Application", "My_1s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_Array", "Check_Array\Check_Array.csproj", "{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transpose_Matrics", "Transpose_Matrics\Transpose_Matrics.csproj", "{70C20A66-B0C6-4222-8418-C05DF94B819E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -254,6 +256,10 @@ Global
 		{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E49C7E9-8D4F-46FD-B66C-5F908D2BE4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C20A66-B0C6-4222-8418-C05DF94B819E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C20A66-B0C6-4222-8418-C05DF94B819E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C20A66-B0C6-4222-8418-C05DF94B819E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C20A66-B0C6-4222-8418-C05DF94B819E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
