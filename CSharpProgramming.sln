@@ -94,6 +94,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting_of_ Array", "Sortin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N_Matrics", "N_Matrics\N_Matrics.csproj", "{5D2CD378-AE42-4ED9-9B81-E30FEBCCE5DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{A446EEF4-6BAD-4DD2-A2C0-849CFA7F6825}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -272,6 +274,10 @@ Global
 		{5D2CD378-AE42-4ED9-9B81-E30FEBCCE5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D2CD378-AE42-4ED9-9B81-E30FEBCCE5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D2CD378-AE42-4ED9-9B81-E30FEBCCE5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A446EEF4-6BAD-4DD2-A2C0-849CFA7F6825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A446EEF4-6BAD-4DD2-A2C0-849CFA7F6825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A446EEF4-6BAD-4DD2-A2C0-849CFA7F6825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A446EEF4-6BAD-4DD2-A2C0-849CFA7F6825}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
