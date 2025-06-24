@@ -102,6 +102,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDelegateFile", "MyDelegat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum1", "Enum1\Enum1.csproj", "{C6EA3907-174F-4E13-B838-E73DDE413026}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String_Builder", "String_Builder\String_Builder.csproj", "{7554F2AA-24C4-4095-B463-39C8A49AD8FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -296,6 +298,10 @@ Global
 		{C6EA3907-174F-4E13-B838-E73DDE413026}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6EA3907-174F-4E13-B838-E73DDE413026}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6EA3907-174F-4E13-B838-E73DDE413026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7554F2AA-24C4-4095-B463-39C8A49AD8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7554F2AA-24C4-4095-B463-39C8A49AD8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7554F2AA-24C4-4095-B463-39C8A49AD8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7554F2AA-24C4-4095-B463-39C8A49AD8FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
